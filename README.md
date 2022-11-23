@@ -1,3 +1,3 @@
-# Hippoptype <- nazwa profilu na githubie
+# gubadam <- nazwa profilu na githubie
 
-- [deploy](https://cls-1-hippopotype.vercel.app/)
+- [deploy](https://cls-2-gubadam.vercel.app/)
