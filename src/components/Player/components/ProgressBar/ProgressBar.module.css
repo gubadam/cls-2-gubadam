@@ -1,0 +1,7 @@
+.containerWithProgressBar {
+  @apply h-3 w-full bg-ui4 rounded-sm;
+}
+
+.progressBar {
+  @apply h-full w-0 bg-white rounded-sm;
+}
